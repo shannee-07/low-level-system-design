@@ -1,4 +1,4 @@
-package movieticketbooking;
+package examples.movieticketbooking;
 
 enum MovieGenre{
     COMEDY,

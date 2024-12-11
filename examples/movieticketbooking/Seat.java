@@ -1,4 +1,4 @@
-package movieticketbooking;
+package examples.movieticketbooking;
 
 public class Seat {
     private boolean isAvailable;

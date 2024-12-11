@@ -1,4 +1,4 @@
-package SOLID_principles;
+package designprinciples.solid;
 
 // Open/Closed Principle Example
 // The Open/Closed Principle states that a class should be open for extension but closed for modification.

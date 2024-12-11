@@ -1,4 +1,4 @@
-package SOLID_principles;
+package designprinciples.solid;
 
 // Single Responsibility Principle (SRP) Example
 // A class should have only one reason to change

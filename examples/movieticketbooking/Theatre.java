@@ -1,4 +1,4 @@
-package movieticketbooking;
+package examples.movieticketbooking;
 
 import java.util.List;
 

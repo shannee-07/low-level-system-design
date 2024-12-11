@@ -1,4 +1,4 @@
-package SOLID_principles;
+package designprinciples.solid;
 
 /**
  * Liskov Substitution Principle (LSP) - Demonstration in Java

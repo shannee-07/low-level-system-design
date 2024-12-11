@@ -5,7 +5,6 @@ import java.util.Date;
 
 public class Main {
     public static void main(String[] args) {
-        Date now = new Date(2001, 04, 13, 9, 30);
-        System.out.println("■ □ □ □\n■ □ □ ■ \n■ ■ ■ □");
+
     }
 }
