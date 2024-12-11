@@ -3,7 +3,12 @@ package SOLID_principles;
 // Single Responsibility Principle (SRP) Example
 // A class should have only one reason to change
 
-// Main class to demonstrate SRP
+// Why is SRP Important?
+// - Easier to maintain and extend code.
+// - Reduces the risk of unintended side effects when changes are made.
+// - Simplifies debugging and testing.
+
+// Class to demonstrate SRP
 public class SingleResponsibility {
 
     public static void main(String[] args) {
