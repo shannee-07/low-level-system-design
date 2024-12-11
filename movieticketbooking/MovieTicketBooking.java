@@ -137,7 +137,6 @@ public class MovieTicketBooking {
                     System.out.println("Seat:" + row + ", " + col + " is not available. Choose other seat");
                 }
             }
-
         }
         return true;
     }
